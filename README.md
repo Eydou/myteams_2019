@@ -1,6 +1,6 @@
 # myteams_2019
 
-**Project done alone** (j'ai fais ce peojet seul)
+**Project done alone** (j'ai fais ce projet seul)
 
 ## Objective
 
