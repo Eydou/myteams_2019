@@ -1,9 +1,12 @@
 # myteams_2019
 
-Project done alone
+**Project done alone**
+
+## Objective
 
 Server be able to manage a collaborative communication application like the well known Microsoft Teams ®.
 
+## Test
 
 | Feature | -- |
 | --- | --- |
