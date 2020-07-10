@@ -1,5 +1,7 @@
 # myteams_2019
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ba2bc623a95441d5af96111fc27c2f65)](https://app.codacy.com/manual/Eydou/myteams_2019?utm_source=github.com&utm_medium=referral&utm_content=Eydou/myteams_2019&utm_campaign=Badge_Grade_Dashboard)
+
 **Project done alone** (j'ai fais ce projet seul)
 
 ## Objective
