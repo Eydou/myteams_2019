@@ -7,7 +7,7 @@ myteams epitech
 | Login(s)/logout | 100% |
 | users | 100% |
 | messages | 100% |
-| users | 100% |
+| events | 100% |
 | team | 100% |
 | channel | 100% |
 | thread | 0% |
