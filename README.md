@@ -1,5 +1,8 @@
 # myteams_2019
-myteams epitech
+
+Project done alone
+
+Server be able to manage a collaborative communication application like the well known Microsoft Teams ®.
 
 
 | Feature | -- |
