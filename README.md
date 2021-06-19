@@ -4,6 +4,10 @@
 
 **Project done alone** (j'ai fais ce projet seul)
 
+## FORK
+⚠️ if you fork my project as an epitech student and you are working on this project
+you will have a -42 automatically.
+
 ## Objective
 
 Server be able to manage a collaborative communication application like the well known Microsoft Teams ®.
